@@ -267,7 +267,7 @@ class FavoritesPage extends StatelessWidget {
         Padding(
           padding: const EdgeInsets.all(20),
           child: Text(
-            'You have '
+            'You '
             '${vm.favorites.length} favorites:',
           ),
         ),
